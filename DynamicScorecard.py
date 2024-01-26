@@ -14,7 +14,6 @@ def fetch_match_names():
         )
         cursor = connection.cursor()
 
-        # Fetching match numbers and team information
         query = "SELECT DISTINCT m.match_no, CONCAT(m.team1, ' vs ', m.team2) FROM matches m JOIN scores s ON m.match_no = s.match_no"
         cursor.execute(query)
         matches_data = cursor.fetchall()
@@ -23,7 +22,6 @@ def fetch_match_names():
             messagebox.showinfo("No Matches", "No matches available.")
             return
 
-        # Update the match combobox with fetched match numbers and team information
         match_combobox['values'] = [f"{match[0]} - {match[1]}" for match in matches_data]
 
     except mysql.connector.Error as err:
@@ -35,7 +33,7 @@ def fetch_match_names():
             connection.close()
 
 def fetch_and_display_info():
-    selected_match = match_combobox.get().split(" - ")[0]  # Extract match number
+    selected_match = match_combobox.get().split(" - ")[0] 
     selected_innings = innings_combobox.get()
     start_over_no = start_over_no_entry.get()
     end_over_no = end_over_no_entry.get()
@@ -92,7 +90,6 @@ def fetch_and_display_info():
 
 def plot_runs_overs_graph(selected_match, selected_innings, start_over_no, end_over_no, cursor):
     try:
-        # Fetch data for runs-overs graph
         query = f"""
             SELECT 
                 over_no, 
