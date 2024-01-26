@@ -15,3 +15,26 @@ Packages Used:
 3.matplotlib: A 2D plotting library for Python, used for creating plots and graphs.
 
 [Cricsheet](https://cricsheet.org/)  (Datasets were taken from this site for extraction).
+
+Imports: The necessary libraries are imported including tkinter for GUI, mysql.connector for MySQL database connection, and matplotlib for plotting graphs.
+
+Function Definitions:
+
+fetch_match_names(): Fetches the match numbers and team information from the database and updates a combobox with the fetched data.
+fetch_and_display_info(): Fetches batting-related information based on user-selected parameters like match, innings, and over numbers. It displays total runs scored, total wickets fallen, and plots a graph of runs scored over overs.
+plot_runs_overs_graph(): Fetches data from the database to plot a graph of runs scored over overs for a specific match, innings, and over range.
+fetch_wickets_count(): Fetches wicket count for a specified match, innings, and over number.
+display_additional_info(): Displays additional information such as the highest run scorer and the most economic bowler for a specific match, innings, and over range.
+GUI Creation:
+
+The main window is created using tk.Tk().
+Labels, comboboxes, entries, buttons, and text widgets are created and placed within the window using grid layout management.
+Widgets are configured and initialized.
+Event Handling:
+
+Button click events are handled to fetch and display information based on user selections.
+Error handling is implemented to handle potential MySQL errors.
+Main Event Loop:
+
+The main event loop (root.mainloop()) is started to run the GUI application.
+Overall, this code represents a GUI application for fetching and displaying cricket match statistics stored in a MySQL database, allowing users to interactively select parameters and view relevant information and graphs.
