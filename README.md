@@ -23,19 +23,29 @@ Function Definitions:
 Imports: The necessary libraries are imported including tkinter for GUI, mysql.connector for MySQL database connection, and matplotlib for plotting graphs.
 
 Function Definitions:
+
 1.fetch_match_names(): Fetches the match numbers and team information from the database and updates a combobox with the fetched data.
+
 2.fetch_and_display_info(): Fetches batting-related information based on user-selected parameters like match, innings, and over numbers. It displays total runs scored, total wickets fallen, and plots a graph of runs scored over overs.
+
 3.plot_runs_overs_graph(): Fetches data from the database to plot a graph of runs scored over overs for a specific match, innings, and over range.
+
 4.fetch_wickets_count(): Fetches wicket count for a specified match, innings, and over number.
+
 5.display_additional_info(): Displays additional information such as the highest run scorer and the most economic bowler for a specific match, innings, and over range.
 
 GUI Creation:
+
 1.The main window is created using tk.Tk().
+
 2.Labels, comboboxes, entries, buttons, and text widgets are created and placed within the window using grid layout management.
+
 3.Widgets are configured and initialized.
 
 Event Handling:
+
 1.Button click events are handled to fetch and display information based on user selections.
+
 2.Error handling is implemented to handle potential MySQL errors.
 
 Main Event Loop:The main event loop (root.mainloop()) is started to run the GUI application.
