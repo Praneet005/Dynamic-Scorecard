@@ -14,7 +14,7 @@ Packages Used:
 
 3.matplotlib: A 2D plotting library for Python, used for creating plots and graphs.
 
-[Cricsheet](https://cricsheet.org/)  (Datasets were taken from this site for extraction).
+[Cricsheet](https://cricsheet.org/)  Datasets were taken from this site and only the necessary details were extracted from each file.
 
 Imports: The necessary libraries are imported including tkinter for GUI, mysql.connector for MySQL database connection, and matplotlib for plotting graphs.
 
