@@ -1,0 +1,49 @@
+Event,Round,Match_no,Date,Venue,City,Team1,Team2,Winner
+ICC Cricket World Cup,Group Stage,1,10/5/2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,England,New Zealand,New Zealand
+ICC Cricket World Cup,Group Stage,2,10/6/2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Pakistan,Netherlands,Pakistan
+ICC Cricket World Cup,Group Stage,3,10/7/2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Afghanistan,Bangladesh,Bangladesh
+ICC Cricket World Cup,Group Stage,4,10/7/2023,"Arun Jaitley Stadium, Delhi",Delhi,South Africa,Sri Lanka,South Africa
+ICC Cricket World Cup,Group Stage,5,10/8/2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Australia,India,India
+ICC Cricket World Cup,Group Stage,6,10/9/2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,New Zealand,Netherlands,New Zealand
+ICC Cricket World Cup,Group Stage,7,10/10/2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,England,Bangladesh,England
+ICC Cricket World Cup,Group Stage,8,10/10/2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Sri Lanka,Pakistan,Pakistan
+ICC Cricket World Cup,Group Stage,9,10/11/2023,"Arun Jaitley Stadium, Delhi",Delhi,Afghanistan,India,India
+ICC Cricket World Cup,Group Stage,10,10/12/2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,South Africa,Australia,South Africa
+ICC Cricket World Cup,Group Stage,11,10/13/2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Bangladesh,New Zealand,New Zealand
+ICC Cricket World Cup,Group Stage,12,10/14/2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Pakistan,India,India
+ICC Cricket World Cup,Group Stage,13,10/15/2023,"Arun Jaitley Stadium, Delhi",Delhi,Afghanistan,England,Afghanistan
+ICC Cricket World Cup,Group Stage,14,10/16/2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Sri Lanka,Australia,Australia
+ICC Cricket World Cup,Group Stage,15,10/17/2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Netherlands,South Africa,Netherlands
+ICC Cricket World Cup,Group Stage,16,10/18/2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,New Zealand,Afghanistan,New Zealand
+ICC Cricket World Cup,Group Stage,17,10/19/2023,"Maharashtra Cricket Association Stadium, Pune",Pune,Bangladesh,India,India
+ICC Cricket World Cup,Group Stage,18,10/20/2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Australia,Pakistan,Australia
+ICC Cricket World Cup,Group Stage,19,10/21/2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Netherlands,Sri Lanka,Sri Lanka
+ICC Cricket World Cup,Group Stage,20,10/21/2023,"Wankhede Stadium, Mumbai",Mumbai,South Africa,England,South Africa
+ICC Cricket World Cup,Group Stage,21,10/22/2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,New Zealand,India,India
+ICC Cricket World Cup,Group Stage,22,10/23/2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Pakistan,Afghanistan,Afghanistan
+ICC Cricket World Cup,Group Stage,23,10/24/2023,"Wankhede Stadium, Mumbai",Mumbai,South Africa,Bangladesh,South Africa
+ICC Cricket World Cup,Group Stage,24,10/25/2023,"Arun Jaitley Stadium, Delhi",Delhi,Australia,Netherlands,Australia
+ICC Cricket World Cup,Group Stage,25,10/26/2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,England,Sri Lanka,Sri Lanka
+ICC Cricket World Cup,Group Stage,26,10/27/2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Pakistan,South Africa,South Africa
+ICC Cricket World Cup,Group Stage,27,10/28/2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Australia,New Zealand,Australia
+ICC Cricket World Cup,Group Stage,28,10/28/2023,"Eden Gardens, Kolkata",Kolkata,Netherlands,Bangladesh,Netherlands
+ICC Cricket World Cup,Group Stage,29,10/29/2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,India,England,India
+ICC Cricket World Cup,Group Stage,30,10/30/2023,"Maharashtra Cricket Association Stadium, Pune",Pune,Sri Lanka,Afghanistan,Afghanistan
+ICC Cricket World Cup,Group Stage,31,10/31/2023,"Eden Gardens, Kolkata",Kolkata,Bangladesh,Pakistan,Pakistan
+ICC Cricket World Cup,Group Stage,32,11/1/2023,"Maharashtra Cricket Association Stadium, Pune",Pune,South Africa,New Zealand,South Africa
+ICC Cricket World Cup,Group Stage,33,11/2/2023,"Wankhede Stadium, Mumbai",Mumbai,India,Sri Lanka,India
+ICC Cricket World Cup,Group Stage,34,11/3/2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Netherlands,Afghanistan,Afghanistan
+ICC Cricket World Cup,Group Stage,36,11/4/2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Australia,England,Australia
+ICC Cricket World Cup,Group Stage,35,11/4/2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,New Zealand,Pakistan,Pakistan
+ICC Cricket World Cup,Group Stage,37,11/5/2023,"Eden Gardens, Kolkata",Kolkata,India,South Africa,India
+ICC Cricket World Cup,Group Stage,38,11/6/2023,"Arun Jaitley Stadium, Delhi",Delhi,Sri Lanka,Bangladesh,Bangladesh
+ICC Cricket World Cup,Group Stage,39,11/7/2023,"Wankhede Stadium, Mumbai",Mumbai,Afghanistan,Australia,Australia
+ICC Cricket World Cup,Group Stage,40,11/8/2023,"Maharashtra Cricket Association Stadium, Pune",Pune,England,Netherlands,England
+ICC Cricket World Cup,Group Stage,41,11/9/2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Sri Lanka,New Zealand,New Zealand
+ICC Cricket World Cup,Group Stage,42,11/10/2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Afghanistan,South Africa,South Africa
+ICC Cricket World Cup,Group Stage,43,11/11/2023,"Maharashtra Cricket Association Stadium, Pune",Pune,Bangladesh,Australia,Australia
+ICC Cricket World Cup,Group Stage,44,11/11/2023,"Eden Gardens, Kolkata",Kolkata,England,Pakistan,England
+ICC Cricket World Cup,Group Stage,45,11/12/2023,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,India,Netherlands,India
+ICC Cricket World Cup,Semi Final,46,11/15/2023,"Wankhede Stadium, Mumbai",Mumbai,India,New Zealand,India
+ICC Cricket World Cup,Semi Final,47,11/16/2023,"Eden Gardens, Kolkata",Kolkata,South Africa,Australia,Australia
+ICC Cricket World Cup,Final,48,11/19/2023,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,Australia,Australia
